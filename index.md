@@ -1,16 +1,16 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Jeremy Hemberger's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Jeremy Hemberger
+Entomologist | Ecologist | Science Communicator | Photographer
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:j.hemberger.wisc@gmail.com">j.hemberger.wisc@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/jhemberger">jhemberger</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/jh_wisc">jH_wisc</a>
 </div>
 
 
