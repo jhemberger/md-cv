@@ -162,11 +162,10 @@ __Wisconsin Society for Conservation Biology__. Pollinator committee chair and c
 Entomological Society of America, Ecological Society of America, Xerces Society for Invertebrate Conservation.
 
 ## Mentoring
-__Grant Witynski__ - Undergraduate researcher, Summer 2018 - present.
-__Agathe Frappa__ – Intern student from SupAgro in Montpellier, France, Summer 2018
-__Brad Harrison__ – LaFollete High School biology instructor (NSF RET Program), Summer 2017
-__Gabriel Foote__ – Undergraduate capstone research, 2014 – 2015.  Gabe did his senior capstone research with me, studying bumblebee behavioral responses to RFID tracking equipment.
-__Ian Shi__ – Middle School Student, 2014 – 2015.  I mentored Ian for the Wisconsin Science Olympiad. He went on to win the state competition and qualify for nationals, in which he competed in May of 2015.
+* __Grant Witynski__ - Undergraduate researcher, Summer 2018 - present.
+* __Agathe Frappa__ – Intern student from SupAgro in Montpellier, France, Summer 2018
+* __Brad Harrison__ – LaFollete High School biology instructor (NSF RET Program), Summer 2017* __Gabriel Foote__ – Undergraduate capstone research, 2014 – 2015.  Gabe did his senior capstone research with me, studying bumblebee behavioral responses to RFID tracking equipment.
+* __Ian Shi__ – Middle School Student, 2014 – 2015.  I mentored Ian for the Wisconsin Science Olympiad. He went on to win the state competition and qualify for nationals, in which he competed in May of 2015.
 
 ## Media
 The Lakeland Times – August 28, 2015. <a href="http://www.scienceontapminocqua.org/time_aug2015.html">_“The earnest importance of bees.”_</a>
@@ -208,10 +207,10 @@ Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/n
 
 ## Projects
 ### Bumble bees of Wisconsin
-Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  _(www.wisconsinbumblebees.com)_.  
+Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  <a href="www.wisconsinbumblebees.com">_(www.wisconsinbumblebees.com)_.</a>
 
 ### Insect photography
-We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. _(www.jeremyhemberger.com/gallery)_.
+We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. <a href="www.jeremyhemberger.com/gallery">_(www.jeremyhemberger.com/gallery)_.</a>
 
 ## References
 
