@@ -92,18 +92,33 @@ Best Poster Award – Wisconsin Ecology Spring Symposium
 ## Presentations
 
 ### Invited
+`2018`
+__Hemberger, J.A.,__ Gratton, C. Understanding bumble bee responses to spatiotemporal resource availability using automated colony scales.  _Annual Meetings of the Entomological Society of America._ Vancouver, BC. Canada.
+
+__Hemberger, J.A.,__ Gratton, C. Thinking like a bumble bee: Understanding bumble bee resource needs in agricultural landscapes.  _Annual Meetings of the Entomological Society of America._ Vancouver, BC. Canada.
+
+__Hemberger, J.A.,__ Gratton, C. Spatiotemporal resource heterogeneity in agroecosystems: implications for bumble bees and other beneficial insects. _ESA North Central Branch Meetings._ Madison, WI. USA.
+
+__Hemberger, J.A.,__ Gratton, C. Bumble bee responses to spatiotemporal resource abundance in WI cranberry. _ESA North Central Branch Meetings._ Madison, WI. USA.
+
+`2017`
+__Hemberger, J.A.,__ Gratton, C. Temporal resource pulse decreases bumble bee foraging duration across central Wisconsin agricultural landscapes. _Annual Meetings of the Entomological Society of America._ Denver, CO. USA.
+
+__Hemberger, J.A.,__ Gratton, C. Using foraging behavior to determine landscape suitability for bumble bees. _BOMBUSS Conference_ Logan, UT. USA.
+
+__Hemberger, J.A.,__ Gratton, C. Spatiotemporal floral resource modeling in Wisconsin agroecosystems. _BOMBUSS Conference_. Logan, UT. USA.
 
 ### Submitted
-
 `2015`
-EdinbR: The Edinburgh R usergroup (_various_)
+__Hemberger, J.A.,__ Gratton, C. How do bees perceive the landscape? Linking bumblebee foraging to resources in Wisconsin landscapes using RFID methods. _Annual Meetings of the Entomological Society of America._ Minneapolis, MN. USA.
 
-MRC IGMM research seminars and section meetings (_various_)
+__Hemberger, J.A.,__ Gratton, C. What’s best for bees? Determining landscape suitability of bumblebees using RFID technology. _Tropentag 2015 -Management of land use systems for enhanced food security - conflicts, controversies and resolutions._ Berlin, Germany.
 
 `2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+__Hemberger, J.A.,__ Gratton, C. Oh, the places bees go: RFID methods connect bumblebee foraging to resources in Wisconsin landscapes. _Annual Meetings of the Entomological Society of America._ Portland, OR. USA.
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+`2013`
+__Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic determinants of the abundance of the West Nile virus vector, Culex pipiens, in suburban Chicago, USA. _27th National Conference for Undergraduate Research._ LaCrosse, WI. USA.
 
 ### Outreach 
 
