@@ -162,10 +162,15 @@ __Wisconsin Society for Conservation Biology__. Pollinator committee chair and c
 Entomological Society of America, Ecological Society of America, Xerces Society for Invertebrate Conservation.
 
 ## Mentoring
-* __Grant Witynski__ - Undergraduate researcher, Summer 2018 - present.
-* __Agathe Frappa__ – Intern student from SupAgro in Montpellier, France, Summer 2018
-* __Brad Harrison__ – LaFollete High School biology instructor (NSF RET Program), Summer 2017* __Gabriel Foote__ – Undergraduate capstone research, 2014 – 2015.  Gabe did his senior capstone research with me, studying bumblebee behavioral responses to RFID tracking equipment.
-* __Ian Shi__ – Middle School Student, 2014 – 2015.  I mentored Ian for the Wisconsin Science Olympiad. He went on to win the state competition and qualify for nationals, in which he competed in May of 2015.
+__Grant Witynski__ - Undergraduate researcher, Summer 2018 - present.
+
+__Agathe Frappa__ – Intern student from SupAgro in Montpellier, France, Summer 2018
+
+__Brad Harrison__ – LaFollete High School biology instructor (NSF RET Program), Summer 2017
+
+__Gabriel Foote__ – Undergraduate capstone research, 2014 – 2015.  Gabe did his senior capstone research with me, studying bumblebee behavioral responses to RFID tracking equipment.
+
+__Ian Shi__ – Middle School Student, 2014 – 2015.  I mentored Ian for the Wisconsin Science Olympiad. He went on to win the state competition and qualify for nationals, in which he competed in May of 2015.
 
 ## Media
 The Lakeland Times – August 28, 2015. <a href="http://www.scienceontapminocqua.org/time_aug2015.html">_“The earnest importance of bees.”_</a>
