@@ -2,8 +2,8 @@
 layout: cv
 title: "Jeremy Hemberger | CV"
 ---
-# Jeremy Hemberger
-Entomologist | Ecologist | Science Communicator | Photographer
+# jeremy hemberger
+entomologist | ecologist | science communicator | photographer
 
 <div id="webaddress">
 <a href="mailto:j.hemberger.wisc@gmail.com">j.hemberger.wisc@gmail.com</a>
