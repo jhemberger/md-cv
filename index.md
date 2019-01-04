@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jeremy Hemberger's CV
+title: "Jeremy Hemberger | CV"
 ---
 # Jeremy Hemberger
 Entomologist | Ecologist | Science Communicator | Photographer
