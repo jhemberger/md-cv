@@ -120,20 +120,74 @@ __Hemberger, J.A.,__ Gratton, C. Oh, the places bees go: RFID methods connect bu
 `2013`
 __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic determinants of the abundance of the West Nile virus vector, Culex pipiens, in suburban Chicago, USA. _27th National Conference for Undergraduate Research._ LaCrosse, WI. USA.
 
-### Outreach 
+### Outreach
+`2018`
+April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
+May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
+
+
+`2017`
+May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
+April 4 – Gateway Technical College. 110+ in attendance
+
+`2016`
+August 31 – Madison NERD Nite Talk. 200+ in attendance
+June 28 – Pope Farm Conservancy. 40 in attendance
+April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
+January 28 – UW Arboretum. 100 in attendance
+
+`2015`
+September 2 – Science on Tap. Minocqua, WI. 160+ in attendance.
+August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
+June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
+June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
+May 16 – Seeds of Service. Chicago, IL. 125 in attendance
+January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
+December 2 – Dane County Bee Keepers Assoc., Madison, WI. 40 in attendance
+October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
+Insect Ambassadors – Over 75 presentations led at locations around southwest WI
 
 ## Involvement
+### University of Wisconsin
+`2017-present`
+__Wisconsin Ecology__.  Graduate student executive member.  One of four graduate students responsible for providing direction to Wisconsin Ecology, as well as organizing Wisconsin Ecology events including spring symposium, undergraduate job fair, and graduate student socials.   
+`2013-present`
+__Entomology Graduate Student Association__.  Student chair for Insect Ambassadors, Student chair for web committee. Responsible for
+graduate student input to department policy and on goings, including outreach web presence.
+
+`2015-2016`
+__Wisconsin Society for Conservation Biology__. Pollinator committee chair and citizen science program leader. Responsible for helping guide a citizen science based pollinator monitoring project at the UW Lakeshore preserve, including\ workshops and field days.
+
+### Professional involvement
+Entomological Society of America, Ecological Society of America, Xerces Society for Invertebrate Conservation.
 
 ## Mentoring
+__Grant Witynski__ - Undergraduate researcher, Summer 2018 - present.
+__Agathe Frappa__ – Intern student from SupAgro in Montpellier, France, Summer 2018
+__Brad Harrison__ – LaFollete High School biology instructor (NSF RET Program), Summer 2017
+__Gabriel Foote__ – Undergraduate capstone research, 2014 – 2015.  Gabe did his senior capstone research with me, studying bumblebee behavioral responses to RFID tracking equipment.
+__Ian Shi__ – Middle School Student, 2014 – 2015.  I mentored Ian for the Wisconsin Science Olympiad. He went on to win the state competition and qualify for nationals, in which he competed in May of 2015.
 
 ## Media
+The Lakeland Times – August 28, 2015. <a href="http://www.scienceontapminocqua.org/time_aug2015.html">_“The earnest importance of bees.”_</a>
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+WXPR Local Public Radio – August 26, 2015. <a href="http://wxpr.org/post/science-tap-explores-pollinators-disappearance">_“Science on Tap Explores Pollinators Disappearance”_</a>
 
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+NBC 15 Local Broadcast News – August 12, 2015. <a href="http://www.nbc15.com/home/headlines/Monitoring-bees-with-microchips-321611762.html">_“Monitoring Bees with Microchips”_</a>
+
+The Daily Cardinal – August 10, 2015. <a href="http://www.dailycardinal.com/article/2015/08/radio-tagged-bees-offer-new-look-at-landscape">_“Radio-tagged bees offer new look at landscape”_</a>
+
+Milwaukee Journal Sentinel – July 29, 2015. <a href="http://www.jsonline.com/news/wisconsin/bee-happy-uw-researchers-help-growers-improve-pollinator-habitats-b99533079z1-319760261.html">_“Bee happy: UW Researchers help growers improve pollinator habitats”_</a>
+
+WPR Larry Meiller Show – March 17, 2015. <a href="http://www.wpr.org/shows/tagging-bees-support-pollinators">_“Tagging bees to support Pollinators_</a>
+
+On Wisconsin Magazine – Winter 2014. <a href="http://onwisconsin.uwalumni.com/departments/news_notes/buzzworthy-research/">_“Buzzworthy Research”_</a>
+
+The Sauk Prairie Eagle – October 13, 2014. <a href="http://www.wiscnews.com/lifestyles/community/article_68d92002-0a92-5dbe-8b44-b67643aa9bd8.html">_“Optimist Speaker is the Bees Knees”_</a>
+
+Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/news/wisconsin/uw-madison-scientists-seek-alternatives-to-cranberry-pollination-b99306192z1-266945911.html">_“UW Madison scientists seek alternatives to cranberry pollination”_</a>
 
 ## Technical skills
-
 * R
 * Python
 * QGIS/ArcGIS
@@ -144,7 +198,6 @@ __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic deter
 
 
 ## Areas of expertise
-
 * Bumble bee ecology
 * General entomology
 * Field ecology
@@ -154,27 +207,11 @@ __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic deter
 * RFID technology
 
 ## Projects
-
-### github
-
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
-
 ### Bumble bees of Wisconsin
+Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  _(www.wisconsinbumblebees.com)_.  
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
-
-## Links
-
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+### Insect photography
+We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. _(www.jeremyhemberger.com/gallery)_.
 
 ## References
 
