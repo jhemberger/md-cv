@@ -212,10 +212,10 @@ Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/n
 
 ## Projects
 ### Bumble bees of Wisconsin
-Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  <a href="www.wisconsinbumblebees.com">_(www.wisconsinbumblebees.com)_.</a>
+Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  <a href="http://www.wisconsinbumblebees.com">_(www.wisconsinbumblebees.com)_.</a>
 
 ### Insect photography
-We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. <a href="www.jeremyhemberger.com/gallery">_(www.jeremyhemberger.com/gallery)_.</a>
+We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. <a href="http://www.jeremyhemberger.com/gallery">_(www.jeremyhemberger.com/gallery)_.</a>
 
 ## References
 
