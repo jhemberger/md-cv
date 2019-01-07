@@ -15,7 +15,8 @@ Entomologist | Ecologist | Science Communicator | Photographer
 
 
 ## Currently
-I am a PhD candidate in the Department of Entomology at the University of Wisconsin-Madison.  I'm interested in questions pertaining to how bumble bee behavior, colony fitness, populations, and communities respond to landscape-scale flower variability over space and time.
+I am a PhD candidate in the Department of Entomology at the University of Wisconsin-Madison.  I'm interested in questions pertaining to how bumble bee behavior, colony fitness, populations, and communities respond to landscape-scale flower availability over space and time.  Outside of my professional pursuits, I am a photographer, climbing routesetter, and a budding wine aficionado.
+
 ## Education
 
 `2013-present`
