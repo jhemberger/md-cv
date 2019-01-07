@@ -128,25 +128,27 @@ May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
 
 
 `2017`
-May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
-April 4 – Gateway Technical College. 110+ in attendance
+* May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
+* April 4 – Gateway Technical College. 110+ in attendance
 
 `2016`
-August 31 – Madison NERD Nite Talk. 200+ in attendance
-June 28 – Pope Farm Conservancy. 40 in attendance
-April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
-January 28 – UW Arboretum. 100 in attendance
+* August 31 – Madison NERD Nite Talk. 200+ in attendance
+* June 28 – Pope Farm Conservancy. 40 in attendance
+* April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
+* January 28 – UW Arboretum. 100 in attendance
 
 `2015`
-September 2 – Science on Tap. Minocqua, WI. 160+ in attendance.
-August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
-June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
-June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
-May 16 – Seeds of Service. Chicago, IL. 125 in attendance
-January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
-December 2 – Dane County Bee Keepers Assoc., Madison, WI. 40 in attendance
-October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
-Insect Ambassadors – Over 75 presentations led at locations around southwest WI
+* September 2 – Science on Tap. Minocqua, WI. 160+ in attendance.
+* August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
+* June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
+* June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
+* May 16 – Seeds of Service. Chicago, IL. 125 in attendance
+* January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
+* December 2 – Dane County Bee Keepers Assoc., Madison, WI. 40 in attendance
+* October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
+
+`2013-2019`
+* Insect Ambassadors – Over 75 presentations led at locations around southwest WI
 
 ## Involvement
 ### University of Wisconsin
