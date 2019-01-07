@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: "Jeremy Hemberger | CV"
+title: Jeremy Hemberger's CV
 ---
-# jeremy hemberger
-entomologist | ecologist | science communicator | photographer
+# Jeremy Hemberger
+Entomologist | Ecologist | Science Communicator | Photographer
 
 <div id="webaddress">
 <a href="mailto:j.hemberger.wisc@gmail.com">j.hemberger.wisc@gmail.com</a>
@@ -15,7 +15,8 @@ entomologist | ecologist | science communicator | photographer
 
 
 ## Currently
-I am a PhD candidate in the Department of Entomology at the University of Wisconsin-Madison.  I'm interested in questions pertaining to how bumble bee behavior, colony fitness, populations, and communities respond to landscape-scale flower variability over space and time.
+I am a PhD candidate in the Department of Entomology at the University of Wisconsin-Madison.  I'm interested in questions pertaining to how bumble bee behavior, colony fitness, populations, and communities respond to landscape-scale flower availability over space and time.  Outside of my professional pursuits, I am a photographer, climbing routesetter, and a budding wine aficionado.
+
 ## Education
 
 `2013-present`
@@ -163,13 +164,9 @@ Entomological Society of America, Ecological Society of America, Xerces Society 
 
 ## Mentoring
 __Grant Witynski__ - Undergraduate researcher, Summer 2018 - present.
-
 __Agathe Frappa__ – Intern student from SupAgro in Montpellier, France, Summer 2018
-
 __Brad Harrison__ – LaFollete High School biology instructor (NSF RET Program), Summer 2017
-
 __Gabriel Foote__ – Undergraduate capstone research, 2014 – 2015.  Gabe did his senior capstone research with me, studying bumblebee behavioral responses to RFID tracking equipment.
-
 __Ian Shi__ – Middle School Student, 2014 – 2015.  I mentored Ian for the Wisconsin Science Olympiad. He went on to win the state competition and qualify for nationals, in which he competed in May of 2015.
 
 ## Media
@@ -212,10 +209,10 @@ Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/n
 
 ## Projects
 ### Bumble bees of Wisconsin
-Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  <a href="http://www.wisconsinbumblebees.com">_(www.wisconsinbumblebees.com)_.</a>
+Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  _(www.wisconsinbumblebees.com)_.  
 
 ### Insect photography
-We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. <a href="http://www.jeremyhemberger.com/gallery">_(www.jeremyhemberger.com/gallery)_.</a>
+We entomologists have the benefit of studying some of the most beautiful organisms on the planet.  I do my best to capture that beauty, and that of the environments in which insects live, to share with people I meet throughout my academic journey. _(www.jeremyhemberger.com/gallery)_.
 
 ## References
 
