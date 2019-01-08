@@ -93,6 +93,9 @@ Best Poster Award – Wisconsin Ecology Spring Symposium
 ## Presentations
 
 ### Invited
+`2019`
+__Hemberger, J.A.,__ Gratton, C. Bumble bees and flowers in cranberry country: landscape suitability for bumble bees. _Wisconsin Cranberry Growers Association: Cranberry School._ Stevens Point, WI. USA.
+
 `2018`
 __Hemberger, J.A.,__ Gratton, C. Understanding bumble bee responses to spatiotemporal resource availability using automated colony scales.  _Annual Meetings of the Entomological Society of America._ Vancouver, BC. Canada.
 
@@ -101,6 +104,8 @@ __Hemberger, J.A.,__ Gratton, C. Thinking like a bumble bee: Understanding bumbl
 __Hemberger, J.A.,__ Gratton, C. Spatiotemporal resource heterogeneity in agroecosystems: implications for bumble bees and other beneficial insects. _ESA North Central Branch Meetings._ Madison, WI. USA.
 
 __Hemberger, J.A.,__ Gratton, C. Bumble bee responses to spatiotemporal resource abundance in WI cranberry. _ESA North Central Branch Meetings._ Madison, WI. USA.
+
+__Hemberger, J.A.,__ Gratton, C. Bumble bee responses to flower availability in WI cranberry. _Wisconsin Cranberry Growers Association: Cranberry School._ Stevens Point, WI. USA.
 
 `2017`
 __Hemberger, J.A.,__ Gratton, C. Temporal resource pulse decreases bumble bee foraging duration across central Wisconsin agricultural landscapes. _Annual Meetings of the Entomological Society of America._ Denver, CO. USA.
