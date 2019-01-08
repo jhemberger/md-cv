@@ -123,30 +123,34 @@ __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic deter
 
 ### Outreach
 `2018`
-April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
-May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
+1. April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
+2. May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
 
 
 `2017`
-May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
-April 4 – Gateway Technical College. 110+ in attendance
+1. April 4 – Gateway Technical College. 110+ in attendance
+2. May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
 
 `2016`
-August 31 – Madison NERD Nite Talk. 200+ in attendance
-June 28 – Pope Farm Conservancy. 40 in attendance
-April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
-January 28 – UW Arboretum. 100 in attendance
+1. January 28 – UW Arboretum. 100 in attendance
+2. April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
+3. June 28 – Pope Farm Conservancy. 40 in attendance
+4. August 31 – Madison NERD Nite Talk. 200+ in attendance
 
 `2015`
-September 2 – Science on Tap. Minocqua, WI. 160+ in attendance.
-August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
-June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
-June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
-May 16 – Seeds of Service. Chicago, IL. 125 in attendance
-January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
-December 2 – Dane County Bee Keepers Assoc., Madison, WI. 40 in attendance
-October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
-Insect Ambassadors – Over 75 presentations led at locations around southwest WI
+1. January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
+2. May 16 – Seeds of Service. Chicago, IL. 125 in attendance
+3. June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
+4. June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
+5. August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
+6. September 2 – Science on Tap. Minocqua, WI. 160+ in attendance.
+7. December 2 – Dane County Bee Keepers Assoc., Madison, WI. 40 in attendance
+
+`2014`
+1. October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
+
+`2013-2019`
+1. Insect Ambassadors – Over 75 presentations led at locations around southwest WI
 
 ## Involvement
 ### University of Wisconsin
