@@ -36,7 +36,7 @@ __University of Wisconsin-Madison__ PhD Thesis | See above
 __USGS National Wildlife Health Center__ Research Technician | Parisitology diagnostics, necropsy, specimen curation, research.  Supevisors: Rebecca Cole and Anindo Choudhury  
 
 `2010-2012`
-__University of Wisconsion-Madison__ Undergraduate Independent Research | Biotic and abiotic determinants of West Nile Virus vector _Culex pipiens_ larval success in sururban Chicago, USA.  Advisors: Tavis Anderson and Tony Goldberg
+__University of Wisconsin-Madison__ Undergraduate Independent Research | Biotic and abiotic determinants of West Nile Virus vector _Culex pipiens_ larval success in sururban Chicago, USA.  Advisors: Tavis Anderson and Tony Goldberg
 
 ## Teaching experience
 `2013-present`
