@@ -36,7 +36,7 @@ __University of Wisconsin-Madison__ PhD Thesis | See above
 __USGS National Wildlife Health Center__ Research Technician | Parisitology diagnostics, necropsy, specimen curation, research.  Supevisors: Rebecca Cole and Anindo Choudhury  
 
 `2010-2012`
-__University of Wisconsin-Madison__ Undergraduate Independent Research | Biotic and abiotic determinants of West Nile Virus vector _Culex pipiens_ larval success in sururban Chicago, USA.  Advisors: Tavis Anderson and Tony Goldberg
+__University of Wisconsion-Madison__ Undergraduate Independent Research | Biotic and abiotic determinants of West Nile Virus vector _Culex pipiens_ larval success in sururban Chicago, USA.  Advisors: Tavis Anderson and Tony Goldberg
 
 ## Teaching experience
 `2013-present`
@@ -52,6 +52,10 @@ __University of Wisconsin-Madison__ _Instructor - College for Kids._  Preparing 
 __University of Wisconsin-Madison__ _Teaching Assistant - General Biology (Zoology 152)._
 
 ## Papers
+`2019`
+__Hemberger, J.__, and C. Gratton. Saved by the pulse?  Separating the effects of total and temporal food abundance
+  on the performance of bumble bee microcolonies. _Submitted_.
+
 `2018`
 __Hemberger, J.__, and C. Gratton. Floral resource pulse decreases bumble bee foraging trip
 duration in central Wisconsin agroecosystem. _Ecological Entomology_ 43:447–457.
@@ -73,6 +77,9 @@ NSF Graduate Research Fellowship – Honorable Mention, 2015
 University of Wisconsin – Madison, Center for Integrated Agricultural Systems Mini-Grant, _Effect of Planting additional, non-crop floral resources on pollinator dependent crop production._ $1500
 
 ## Awards
+`2019`
+International Pollinator Conference - Travel Award.  $500
+
 `2017`
 Albert J. & Adelaide E. Riker Scholarship – UW CALS Student Award. $1500 scholarship
 
@@ -93,9 +100,6 @@ Best Poster Award – Wisconsin Ecology Spring Symposium
 ## Presentations
 
 ### Invited
-`2019`
-__Hemberger, J.A.,__ Gratton, C. Bumble bees and flowers in cranberry country: landscape suitability for bumble bees. _Wisconsin Cranberry Growers Association: Cranberry School._ Stevens Point, WI. USA.
-
 `2018`
 __Hemberger, J.A.,__ Gratton, C. Understanding bumble bee responses to spatiotemporal resource availability using automated colony scales.  _Annual Meetings of the Entomological Society of America._ Vancouver, BC. Canada.
 
@@ -104,8 +108,6 @@ __Hemberger, J.A.,__ Gratton, C. Thinking like a bumble bee: Understanding bumbl
 __Hemberger, J.A.,__ Gratton, C. Spatiotemporal resource heterogeneity in agroecosystems: implications for bumble bees and other beneficial insects. _ESA North Central Branch Meetings._ Madison, WI. USA.
 
 __Hemberger, J.A.,__ Gratton, C. Bumble bee responses to spatiotemporal resource abundance in WI cranberry. _ESA North Central Branch Meetings._ Madison, WI. USA.
-
-__Hemberger, J.A.,__ Gratton, C. Bumble bee responses to flower availability in WI cranberry. _Wisconsin Cranberry Growers Association: Cranberry School._ Stevens Point, WI. USA.
 
 `2017`
 __Hemberger, J.A.,__ Gratton, C. Temporal resource pulse decreases bumble bee foraging duration across central Wisconsin agricultural landscapes. _Annual Meetings of the Entomological Society of America._ Denver, CO. USA.
@@ -127,31 +129,33 @@ __Hemberger, J.A.,__ Gratton, C. Oh, the places bees go: RFID methods connect bu
 __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic determinants of the abundance of the West Nile virus vector, Culex pipiens, in suburban Chicago, USA. _27th National Conference for Undergraduate Research._ LaCrosse, WI. USA.
 
 ### Outreach
+`2019`
+June 17 - National Pollinator Week Talk - Olbrich Gardens, Madison, WI. 11 in attendance
+June 23 - Bumble bee ID workshop - Olbrich Gardens, Madison, WI. 15 in attendance.
+
 `2018`
-* April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
-* May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
+April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
+May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
 
 
 `2017`
-* April 4 – Gateway Technical College. 110+ in attendance
 * May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
+* April 4 – Gateway Technical College. 110+ in attendance
 
 `2016`
-* January 28 – UW Arboretum. 100 in attendance
-* April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
-* June 28 – Pope Farm Conservancy. 40 in attendance
 * August 31 – Madison NERD Nite Talk. 200+ in attendance
+* June 28 – Pope Farm Conservancy. 40 in attendance
+* April 25 – UW Steven’s Point LIFE Seminar. 50 in attendance
+* January 28 – UW Arboretum. 100 in attendance
 
 `2015`
-* January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
-* May 16 – Seeds of Service. Chicago, IL. 125 in attendance
-* June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
-* June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
-* August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
 * September 2 – Science on Tap. Minocqua, WI. 160+ in attendance.
+* August 6/7 – Ridges Sanctuary: Talk & workshop. Bailey’s Harbor, WI. 30 in attendance
+* June 20 – Beestock: Capital Brewery. Middleton, WI. 30 in attendance
+* June 14 – Bee Fest: UW Arboretum. Madison, WI. 45 in attendance
+* May 16 – Seeds of Service. Chicago, IL. 125 in attendance
+* January 20 – Master Gardener Talk. Egg Harbor, WI. 75 in attendance
 * December 2 – Dane County Bee Keepers Assoc., Madison, WI. 40 in attendance
-
-`2014`
 * October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
 
 `2013-2019`
@@ -159,8 +163,9 @@ __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic deter
 
 ## Involvement
 ### University of Wisconsin
-`2017-present`
+`2017-2019`
 __Wisconsin Ecology__.  Graduate student executive member.  One of four graduate students responsible for providing direction to Wisconsin Ecology, as well as organizing Wisconsin Ecology events including spring symposium, undergraduate job fair, and graduate student socials.   
+
 `2013-present`
 __Entomology Graduate Student Association__.  Student chair for Insect Ambassadors, Student chair for web committee. Responsible for
 graduate student input to department policy and on goings, including outreach web presence.
@@ -198,20 +203,19 @@ The Sauk Prairie Eagle – October 13, 2014. <a href="http://www.wiscnews.com/li
 Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/news/wisconsin/uw-madison-scientists-seek-alternatives-to-cranberry-pollination-b99306192z1-266945911.html">_“UW Madison scientists seek alternatives to cranberry pollination”_</a>
 
 ## Technical skills
-* R
-* Python
+* Intermediate/Advanced R
+* Basic Python
 * QGIS/ArcGIS
 * Bash/ShellScript
 * Git
 * Adobe Suite
 * Photography and videography
 
-
 ## Areas of expertise
-* Bumble bee ecology
+* Bumble bee foraging and resource ecology
 * General entomology
 * Field ecology
-* Statistics
+* Statistical analysis (frequentist approaches) 
 * Data visualisation
 * Agricultural science
 * RFID technology
