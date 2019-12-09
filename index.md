@@ -225,7 +225,7 @@ Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/n
 * RFID technology
 * Photography and videography
 
-## Projects
+## Additional projects
 ### Bumble bees of Wisconsin
 Interest in bumble bee conservation is at an all time high.  Each week I meet citizens concerned about our fuzzy friends - interseted in learning more to help with conservation efforts.  To help further cultivate interest in bumble bees, and to share important information about their biology, conservation, and to help amateur naturalists identify Wisconsin bumble bees, I built a website.  _(www.wisconsinbumblebees.com)_.  
 
