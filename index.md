@@ -15,12 +15,12 @@ Entomologist | Ecologist | Science Communicator | Photographer
 
 
 ## Currently
-I am a PhD candidate in the Department of Entomology at the University of Wisconsin-Madison.  I'm interested in questions pertaining to how bumble bee behavior, colony fitness, populations, and communities respond to landscape-scale flower availability over space and time.  Outside of my professional pursuits, I am a photographer, climbing routesetter, and a budding wine aficionado.
+I'm interested in how insect fitness, behavior, populations, and communities respond to landscape-scale drivers in agroecosystems in order to support the biodiversity essential for supporting our agriculturally productive landscapes.  
 
 ## Education
 
-`2013-present`
-__University of Wisconsin-Madison__ Entomology PhD (advisor: Claudio Gratton | committee: Neal Williams, Russ Groves, Christelle Geudot, John Orrock). Thesis title: _Spatial and temporal floral resources in agricultural landscapes and their influence on bumble bees: assessing bumble bees in WI cranberry agroecosystems in the past, present, and future_.
+`2013-2020`
+__University of Wisconsin-Madison__ Entomology PhD (advisor: Claudio Gratton | committee: Neal Williams, Russ Groves, Christelle Geudot, John Orrock). Thesis title: _Where have all the flowers gone? Understanding changes in spatiotemporal floral resources and their role in driving bumble bee behavior, colony development, and populations in agroecosystems_.
 
 `2010-2012`
 __University of Wisconsin-Madison__ BSc Biology with evolution emphasis
@@ -29,7 +29,7 @@ __University of Wisconsin-Madison__ BSc Biology with evolution emphasis
 __University of Wisconsin-Platteville__ BSc Genetic and molecular biology _(Transfer to UW-Madison - fall 2010)_
 
 ## Research experience
-`2013-present`
+`2013-2020`
 __University of Wisconsin-Madison__ PhD Thesis | See above
 
 `2012-2013`
@@ -39,7 +39,7 @@ __USGS National Wildlife Health Center__ Research Technician | Parisitology diag
 __University of Wisconsion-Madison__ Undergraduate Independent Research | Biotic and abiotic determinants of West Nile Virus vector _Culex pipiens_ larval success in sururban Chicago, USA.  Advisors: Tavis Anderson and Tony Goldberg
 
 ## Teaching experience
-`2013-present`
+`2013-2019`
 __UW Entomology Insect Ambassadors__ _Program coordinator and head presenter._  This group is the primary outreach arm of the UW Entomology department - specializing in K-8, insect-themed outreach and presentations.  Presentations to date: over 100.
 
 `2017`
@@ -54,10 +54,10 @@ __University of Wisconsin-Madison__ _Teaching Assistant - General Biology (Zoolo
 ## Papers
 `2019`
 __Hemberger, J.__, and C. Gratton. Saved by the pulse?  Separating the effects of total and temporal food abundance
-  on the performance of bumble bee microcolonies. _Submitted_.
+  on the performance of bumble bee microcolonies. _in revision_, _Basic and Applied Ecology_.
 
 `2018`
-__Hemberger, J.__, and C. Gratton. Floral resource pulse decreases bumble bee foraging trip
+__Hemberger, J.__, and C. Gratton. 2018. Floral resource pulse decreases bumble bee foraging trip
 duration in central Wisconsin agroecosystem. _Ecological Entomology_ 43:447–457.
 
 ## Grants
@@ -100,6 +100,9 @@ Best Poster Award – Wisconsin Ecology Spring Symposium
 ## Presentations
 
 ### Invited
+`2019`
+__Hemberger, J.A.,__ Koch, J.  Bumble Bees in the Landscape: State of the science, methods, and research priorities.  _BOMBUSS 2.0._ Toronto, ON. Canada.
+
 `2018`
 __Hemberger, J.A.,__ Gratton, C. Understanding bumble bee responses to spatiotemporal resource availability using automated colony scales.  _Annual Meetings of the Entomological Society of America._ Vancouver, BC. Canada.
 
@@ -130,13 +133,13 @@ __Hemberger, J.A.,__ Anderson, T.K., Goldberg, T.L., Newman, C.M., Abiotic deter
 
 ### Outreach
 `2019`
-June 17 - National Pollinator Week Talk - Olbrich Gardens, Madison, WI. 11 in attendance
+December 4 - Madison Science on Tap.  Madison, WI. 30 in attendance.
 June 23 - Bumble bee ID workshop - Olbrich Gardens, Madison, WI. 15 in attendance.
+June 17 - National Pollinator Week Talk - Olbrich Gardens, Madison, WI. 11 in attendance
 
 `2018`
-April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
 May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
-
+April 4 - Madison Science on Tap.  Madison, WI. 60 in attendance
 
 `2017`
 * May 3 – GRASSUP (Organic Valley) Madison, WI. 100+ in attendance.
@@ -159,14 +162,14 @@ May 1 - Madison Optimist Society.  Madison, WI. 25 in attendance
 * October 6 – Sauk Prairie Optimist Club. Sauk Prairie, WI. 40 in attendance
 
 `2013-2019`
-* Insect Ambassadors – Over 75 presentations led at locations around southwest WI
+* Insect Ambassadors – Over 75 classroom presentations led at locations around southwest WI.
 
 ## Involvement
 ### University of Wisconsin
 `2017-2019`
 __Wisconsin Ecology__.  Graduate student executive member.  One of four graduate students responsible for providing direction to Wisconsin Ecology, as well as organizing Wisconsin Ecology events including spring symposium, undergraduate job fair, and graduate student socials.   
 
-`2013-present`
+`2013-2019`
 __Entomology Graduate Student Association__.  Student chair for Insect Ambassadors, Student chair for web committee. Responsible for
 graduate student input to department policy and on goings, including outreach web presence.
 
@@ -202,23 +205,25 @@ The Sauk Prairie Eagle – October 13, 2014. <a href="http://www.wiscnews.com/li
 
 Milwaukee Journal Sentinel – July 13, 2014. <a href="http://www.jsonline.com/news/wisconsin/uw-madison-scientists-seek-alternatives-to-cranberry-pollination-b99306192z1-266945911.html">_“UW Madison scientists seek alternatives to cranberry pollination”_</a>
 
-## Technical skills
-* Intermediate/Advanced R
-* Basic Python
+## Technical skills and languages
+* Advanced R
+* Elementary Python
 * QGIS/ArcGIS
 * Bash/ShellScript
 * Git
 * Adobe Suite
 * Photography and videography
 
-## Areas of expertise
+## Areas of experience
+* Science communication
 * Bumble bee foraging and resource ecology
 * General entomology
 * Field ecology
-* Statistical analysis (frequentist approaches) 
+* Statistical analyses (frequentist approaches) 
 * Data visualisation
 * Agricultural science
 * RFID technology
+* Photography and videography
 
 ## Projects
 ### Bumble bees of Wisconsin
@@ -233,4 +238,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: January 2019 -->
+Last updated: December 2019 -->
